@@ -48,7 +48,7 @@ This repository on GitHub is the place where we collect our Issues, discussions 
 
 We are working on creating our roadmap, you can suggest your ideas. In short, Stage 0 (pre-project work) was previously implemented, within the framework of which we did a lot of work that allowed us to understand how we can create such a large project with small resources, and we also worked out the lore based on our cinematic universe.
 
-At the moment, we are planning to implement Stage 1, which implies a single-user non-network MVP, and then Stage 2, which will implement multi-user functionality and communication with the backend.
+**At the moment, we are planning to implement Stage 1, which implies a single-user non-network MVP, and then Stage 2, which will implement multi-user functionality and communication with the backend.**
 
 We have long had a very large and very complex backend with a lot of functionality, implemented on Django with API GraphQL + OAuth 2.0 server, but we are planning to create an updated backend on a new technology stack, which will be easier to update and maintain. We assume that it could be Strapi CMS + Colyseus, but we continue to study this issue, perhaps this stack will change or other components will be added to it, for example, Supabase.
 
