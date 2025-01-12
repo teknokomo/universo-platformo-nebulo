@@ -6,7 +6,7 @@
 
 # Inspiration
 
-Our wonderful project, which will help create a global technocomization and save humanity from final enslavement and total destruction, looks like this in version `0.1.0 Pre-Alpha - 2025-01-12 (Young Bolshevik)`, but we have already done more and better in the new version, join our great victory over the imperialist fascist Satan, help us:
+Our wonderful project, which will help create a global teknokomization and save humanity from final enslavement and total destruction, looks like this in version `0.1.0 Pre-Alpha - 2025-01-12 (Young Bolshevik)`, but we have already done more and better in the new version, join our great victory over the imperialist fascist Satan, help us:
 
 ![image_2025-01-12_07-34-24](https://github.com/user-attachments/assets/b8078dbf-7ce9-4782-b9e9-c6c907af95fe)
 
