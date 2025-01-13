@@ -4,12 +4,6 @@
 - Proletoj el ĉiuj landoj, unuiĝu!
 - Пролетарии всех стран, соединяйтесь!
 
-# Inspiration
-
-Our wonderful project, which will help create a global teknokomization and save humanity from final enslavement and total destruction, looks like this in version `0.1.0 Pre-Alpha - 2025-01-12 (Young Bolshevik)`, but we have already done more and better in the new version, join our great victory over the imperialist fascist Satan, help us:
-
-![image_2025-01-12_07-34-24](https://github.com/user-attachments/assets/b8078dbf-7ce9-4782-b9e9-c6c907af95fe)
-
 # Basic information
 
 ![Na_Marse](https://github.com/user-attachments/assets/631425b2-a181-40a1-a4fc-a7f66674b442)
@@ -37,6 +31,28 @@ You can write to Vladimir Levadny in any common language, but it is better to us
 - Email universo.pro@yandex.ru
   
 Our website (requires updating information, a lot of outdated information) https://universo.pro
+
+# Inspiration
+
+Our wonderful project, which will help create a global teknokomization and save humanity from final enslavement and total destruction, looks like this in version `0.1.0 Pre-Alpha - 2025-01-12 (Young Bolshevik)`, but we have already done more and better in the new version, join our great victory over the imperialist fascist Satan, help us:
+
+![image_2025-01-12_07-34-24](https://github.com/user-attachments/assets/b8078dbf-7ce9-4782-b9e9-c6c907af95fe)
+
+# Where am I and what should I do?
+
+The near future, Omsk is the capital of the world, in the Olympus-1 tower, scientists explain to you that it is possible to connect your consciousness to a robot in another part of the Universe, in a parallel reality, controlled by robots we call Robocubans, through the recently discovered Great Ring system.
+
+A flash, a clouding of consciousness. Gradually, you come to your senses, feeling a new world far from Earth through your robot avatar. Through this robot avatar, you will be able to control your first spaceship, which is made in the cubic style beloved by robots, and conduct various activities in this new world.
+
+Develop the capabilities of your robot avatar and make it more human or a giant robot destroyer. Buy or independently create new spaceships and space stations of completely different classes and styles at shipyards. Extract resources, buy and sell any goods or unique dangerous relics.
+
+Interact with other people from Earth or several alien races and factions. You can join an existing organization, create a new organization or even your own empire. Lead a peaceful life or fight every day. Skill development, many missions, unexpected events - in Universo MMOOMM it is never boring.
+
+Kubio is a parallel world controlled by robots, this is only the central connecting world, from it you can move through the Stargate to other parallel worlds. One gate leads to Konkordo, where the socio-economic interaction is more socialist. The second gate leads to Triumfo, where the socio-economic interaction is mainly capitalist. This economic feature is characteristic of those races that are in the part of space that is closest to the Interworld Stargate in these parallel worlds. The further from these areas of space, the greater the differences in the socio-economic structure.
+
+But this is not only a space multiplayer strategy. Later, you will be able to get to planetary locations and other parts of several parallel worlds, including those described in the metaproject "Omsk - the capital of the world". The development of automation and robotization mechanics of production is planned to be brought to the point of withdrawal from the virtual world to the real one and offer this automation to enterprises and people within the framework of the Cyberplan format, so that digital twins of production and entire cities can be created right in the game, and then, with the help of our robots, transfer all this to the real world.
+
+Well, how do you like it? Do you feel that Universo MMOOMM is the best and most significant project of our time and the near future? Do you want to join us? Soon you will be able to click the "To the Future" button and robots will show you the way. And now the project is in development and you can join our work, support us with your work and financially.
 
 # Tech stack
 
